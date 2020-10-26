@@ -10,7 +10,7 @@
     </div>
     <div class="form-group">
         <label for="email">Введите Email</label>
-        <input type="text" name="email" placeholder="Введите email" id="email" class="form-control">
+        <input type="text" name="email" placeholdAer="Введите email" id="email" class="form-control">
     </div>
     <div class="form-group">
         <label for="subject">Тема сообщения</label>
